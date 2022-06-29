@@ -7,11 +7,11 @@ Cron V3 has been released!
 
 To download the specific tagged release, run:
 
-	go get github.com/robfig/cron/v3@v3.0.0
+	go get github.com/picante-io/cron/v3@v3.0.0
 
 Import it in your program as:
 
-	import "github.com/robfig/cron/v3"
+	import "github.com/picante-io/cron/v3"
 
 It requires Go 1.11 or later due to usage of Go Modules.
 
